@@ -1,2 +1,2 @@
-# laptop-prices-pridition
+# laptop-prices-prediction
  
